@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		04C9339925834E5800D2320B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C9339825834E5800D2320B /* AppDelegate.swift */; };
 		04C9339B25834E5800D2320B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C9339A25834E5800D2320B /* SceneDelegate.swift */; };
-		04C9339D25834E5800D2320B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C9339C25834E5800D2320B /* ViewController.swift */; };
 		04C933A025834E5800D2320B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C9339E25834E5800D2320B /* Main.storyboard */; };
 		04C933A225834E5B00D2320B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C933A125834E5B00D2320B /* Assets.xcassets */; };
 		04C933A525834E5B00D2320B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C933A325834E5B00D2320B /* LaunchScreen.storyboard */; };
+		04C933AF2583517500D2320B /* UserHomeCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C933AE2583517500D2320B /* UserHomeCollectionViewController.swift */; };
+		04C933B2258351B800D2320B /* UserPhotoGridCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C933B1258351B800D2320B /* UserPhotoGridCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		04C9339525834E5800D2320B /* InstagramDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstagramDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C9339825834E5800D2320B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04C9339A25834E5800D2320B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		04C9339C25834E5800D2320B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		04C9339F25834E5800D2320B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		04C933A125834E5B00D2320B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04C933A425834E5B00D2320B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04C933A625834E5B00D2320B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04C933AE2583517500D2320B /* UserHomeCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserHomeCollectionViewController.swift; sourceTree = "<group>"; };
+		04C933B1258351B800D2320B /* UserPhotoGridCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserPhotoGridCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +60,12 @@
 			children = (
 				04C9339825834E5800D2320B /* AppDelegate.swift */,
 				04C9339A25834E5800D2320B /* SceneDelegate.swift */,
-				04C9339C25834E5800D2320B /* ViewController.swift */,
 				04C9339E25834E5800D2320B /* Main.storyboard */,
 				04C933A125834E5B00D2320B /* Assets.xcassets */,
 				04C933A325834E5B00D2320B /* LaunchScreen.storyboard */,
 				04C933A625834E5B00D2320B /* Info.plist */,
+				04C933AE2583517500D2320B /* UserHomeCollectionViewController.swift */,
+				04C933B1258351B800D2320B /* UserPhotoGridCollectionViewCell.swift */,
 			);
 			path = InstagramDemo;
 			sourceTree = "<group>";
@@ -137,9 +140,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04C9339D25834E5800D2320B /* ViewController.swift in Sources */,
 				04C9339925834E5800D2320B /* AppDelegate.swift in Sources */,
 				04C9339B25834E5800D2320B /* SceneDelegate.swift in Sources */,
+				04C933B2258351B800D2320B /* UserPhotoGridCollectionViewCell.swift in Sources */,
+				04C933AF2583517500D2320B /* UserHomeCollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
