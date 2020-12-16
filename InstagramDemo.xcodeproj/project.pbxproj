@@ -14,6 +14,8 @@
 		04C933A525834E5B00D2320B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C933A325834E5B00D2320B /* LaunchScreen.storyboard */; };
 		04C933AF2583517500D2320B /* UserHomeCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C933AE2583517500D2320B /* UserHomeCollectionViewController.swift */; };
 		04C933B2258351B800D2320B /* UserPhotoGridCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C933B1258351B800D2320B /* UserPhotoGridCollectionViewCell.swift */; };
+		04C933B52584975E00D2320B /* UserHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C933B42584975D00D2320B /* UserHomeViewController.swift */; };
+		04D51831258A5D1700BC6E72 /* ShowPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D51830258A5D1600BC6E72 /* ShowPhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		04C933A625834E5B00D2320B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04C933AE2583517500D2320B /* UserHomeCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserHomeCollectionViewController.swift; sourceTree = "<group>"; };
 		04C933B1258351B800D2320B /* UserPhotoGridCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserPhotoGridCollectionViewCell.swift; sourceTree = "<group>"; };
+		04C933B42584975D00D2320B /* UserHomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserHomeViewController.swift; sourceTree = "<group>"; };
+		04D51830258A5D1600BC6E72 /* ShowPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowPhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				04C933A625834E5B00D2320B /* Info.plist */,
 				04C933AE2583517500D2320B /* UserHomeCollectionViewController.swift */,
 				04C933B1258351B800D2320B /* UserPhotoGridCollectionViewCell.swift */,
+				04C933B42584975D00D2320B /* UserHomeViewController.swift */,
+				04D51830258A5D1600BC6E72 /* ShowPhotoViewController.swift */,
 			);
 			path = InstagramDemo;
 			sourceTree = "<group>";
@@ -140,9 +146,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D51831258A5D1700BC6E72 /* ShowPhotoViewController.swift in Sources */,
 				04C9339925834E5800D2320B /* AppDelegate.swift in Sources */,
 				04C9339B25834E5800D2320B /* SceneDelegate.swift in Sources */,
 				04C933B2258351B800D2320B /* UserPhotoGridCollectionViewCell.swift in Sources */,
+				04C933B52584975E00D2320B /* UserHomeViewController.swift in Sources */,
 				04C933AF2583517500D2320B /* UserHomeCollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

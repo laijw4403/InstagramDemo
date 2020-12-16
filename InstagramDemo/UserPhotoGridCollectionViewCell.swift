@@ -9,4 +9,5 @@ import UIKit
 
 class UserPhotoGridCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var photoImageView: UIImageView!
+    
 }

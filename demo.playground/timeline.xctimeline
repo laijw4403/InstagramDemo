@@ -3,12 +3,28 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/mac/LearniOS/PeterPan_100Exercise/InstagramDemo/demo.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=469&amp;EndingColumnNumber=0&amp;EndingLineNumber=20&amp;StartingColumnNumber=1&amp;StartingLineNumber=19&amp;Timestamp=629367284.1608551"
+         documentLocation = "file:///Users/mac/LearniOS/PeterPan_100Exercise/InstagramDemo/demo.playground#CharacterRangeLen=181&amp;CharacterRangeLoc=14&amp;EndingColumnNumber=0&amp;EndingLineNumber=6&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=629444390.069337"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/mac/LearniOS/PeterPan_100Exercise/InstagramDemo/demo.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=395&amp;EndingColumnNumber=0&amp;EndingLineNumber=11&amp;StartingColumnNumber=17&amp;StartingLineNumber=10&amp;Timestamp=629367284.161094"
+         documentLocation = "file:///Users/mac/LearniOS/PeterPan_100Exercise/InstagramDemo/demo.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=14&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=629444390.076283"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mac/LearniOS/PeterPan_100Exercise/InstagramDemo/demo.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=155&amp;EndingColumnNumber=16&amp;EndingLineNumber=5&amp;StartingColumnNumber=1&amp;StartingLineNumber=5&amp;Timestamp=629444390.0765361"
+         lockedSize = "{517, 142}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mac/LearniOS/PeterPan_100Exercise/InstagramDemo/demo.playground#CharacterRangeLen=17&amp;CharacterRangeLoc=91&amp;EndingColumnNumber=22&amp;EndingLineNumber=4&amp;StartingColumnNumber=5&amp;StartingLineNumber=4&amp;Timestamp=629444390.080103"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mac/LearniOS/PeterPan_100Exercise/InstagramDemo/demo.playground#CharacterRangeLen=15&amp;CharacterRangeLoc=20&amp;EndingColumnNumber=20&amp;EndingLineNumber=3&amp;StartingColumnNumber=5&amp;StartingLineNumber=3&amp;Timestamp=629444390.080318"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
